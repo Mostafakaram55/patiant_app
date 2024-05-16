@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "436946426159",
+    "project_id": "patient-a3b8a",
+    "storage_bucket": "patient-a3b8a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:436946426159:android:1de178e11044e6b8b169da",
+        "android_client_info": {
+          "package_name": "com.example.patiant_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBev1MY5kDJR3wAiPVViU183GCMzKAW71M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
